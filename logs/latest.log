@@ -1,25 +1,38 @@
-[23:03:35] [Server thread/INFO]: Starting minecraft server version 1.11
-[23:03:35] [Server thread/INFO]: Loading properties
-[23:03:35] [Server thread/INFO]: Default game type: SURVIVAL
-[23:03:35] [Server thread/INFO]: Generating keypair
-[23:03:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:03:35] [Server thread/INFO]: Using epoll channel type
-[23:03:35] [Server thread/INFO]: Preparing level "world"
-[23:03:36] [Server thread/INFO]: Preparing start region for level 0
-[23:03:37] [Server thread/INFO]: Preparing spawn area: 3%
-[23:03:38] [Server thread/INFO]: Done (2.179s)! For help, type "help" or "?"
-[23:03:50] [User Authenticator #1/INFO]: UUID of player lord0gnome is 50b1244c-fe2e-4258-a473-810e2ef56e09
-[23:03:50] [Server thread/INFO]: lord0gnome[/78.193.234.231:62201] logged in with entity id 207 at (-5920.063108335415, 96.0, -211.02612720900404)
-[23:03:50] [Server thread/INFO]: lord0gnome joined the game
-[23:03:53] [Server thread/INFO]: lord0gnome lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[23:03:53] [Server thread/INFO]: lord0gnome left the game
-[23:03:57] [Server thread/INFO]: Stopping the server
-[23:03:57] [Server thread/INFO]: Stopping server
-[23:03:57] [Server thread/INFO]: Saving players
-[23:03:57] [Server thread/INFO]: Saving worlds
-[23:03:57] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[23:03:57] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[23:03:57] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[23:03:57] [Server Shutdown Thread/INFO]: Stopping server
-[23:03:57] [Server Shutdown Thread/INFO]: Saving players
-[23:03:57] [Server Shutdown Thread/INFO]: Saving worlds
+[18:01:18] [Server thread/INFO]: Starting minecraft server version 1.11
+[18:01:18] [Server thread/INFO]: Loading properties
+[18:01:18] [Server thread/INFO]: Default game type: SURVIVAL
+[18:01:18] [Server thread/INFO]: Generating keypair
+[18:01:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:01:18] [Server thread/INFO]: Using epoll channel type
+[18:01:18] [Server thread/INFO]: Preparing level "world"
+[18:01:18] [Server thread/INFO]: Preparing start region for level 0
+[18:01:19] [Server thread/INFO]: Preparing spawn area: 2%
+[18:01:20] [Server thread/INFO]: Done (2.214s)! For help, type "help" or "?"
+[18:01:25] [User Authenticator #1/INFO]: UUID of player lord0gnome is 50b1244c-fe2e-4258-a473-810e2ef56e09
+[18:01:25] [Server thread/INFO]: lord0gnome[/78.193.234.231:55999] logged in with entity id 206 at (-5929.28991316159, 96.0, -220.45616393803465)
+[18:01:25] [Server thread/INFO]: lord0gnome joined the game
+[18:01:44] [User Authenticator #2/INFO]: UUID of player slime73 is 40b5404a-1f76-44d2-a2f2-251171f48b4a
+[18:01:44] [Server thread/INFO]: slime73[/142.134.41.111:50778] logged in with entity id 471 at (-5929.464648795194, 94.76636799395752, -199.35424424323148)
+[18:01:44] [Server thread/INFO]: slime73 joined the game
+[18:45:55] [Server thread/INFO]: <lord0gnome> ok we stop here
+[18:45:59] [Server thread/INFO]: <lord0gnome> it is time apparently
+[18:46:02] [Server thread/INFO]: <slime73> you hung up when I answered
+[18:46:03] [Server thread/INFO]: <slime73> ok
+[18:46:03] [Server thread/INFO]: <lord0gnome> for next time this shall be
+[18:46:05] [Server thread/INFO]: <lord0gnome> no idnt
+[18:46:07] [Server thread/INFO]: <slime73> liar
+[18:46:07] [Server thread/INFO]: <lord0gnome> it din't wor
+[18:46:09] [Server thread/INFO]: <lord0gnome> k
+[18:46:15] [Server thread/INFO]: lord0gnome lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:46:15] [Server thread/INFO]: lord0gnome left the game
+[18:46:21] [Server thread/INFO]: slime73 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:46:21] [Server thread/INFO]: slime73 left the game
+[18:46:23] [Server thread/INFO]: Stopping the server
+[18:46:23] [Server thread/INFO]: Stopping server
+[18:46:23] [Server thread/INFO]: Saving players
+[18:46:23] [Server thread/INFO]: Saving worlds
+[18:46:23] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[18:46:23] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[18:46:23] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[18:46:23] [Server Shutdown Thread/INFO]: Stopping server
+[18:46:23] [Server Shutdown Thread/INFO]: Saving players
