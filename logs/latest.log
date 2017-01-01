@@ -1,38 +1,55 @@
-[18:01:18] [Server thread/INFO]: Starting minecraft server version 1.11
-[18:01:18] [Server thread/INFO]: Loading properties
-[18:01:18] [Server thread/INFO]: Default game type: SURVIVAL
-[18:01:18] [Server thread/INFO]: Generating keypair
-[18:01:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:01:18] [Server thread/INFO]: Using epoll channel type
-[18:01:18] [Server thread/INFO]: Preparing level "world"
-[18:01:18] [Server thread/INFO]: Preparing start region for level 0
-[18:01:19] [Server thread/INFO]: Preparing spawn area: 2%
-[18:01:20] [Server thread/INFO]: Done (2.214s)! For help, type "help" or "?"
-[18:01:25] [User Authenticator #1/INFO]: UUID of player lord0gnome is 50b1244c-fe2e-4258-a473-810e2ef56e09
-[18:01:25] [Server thread/INFO]: lord0gnome[/78.193.234.231:55999] logged in with entity id 206 at (-5929.28991316159, 96.0, -220.45616393803465)
-[18:01:25] [Server thread/INFO]: lord0gnome joined the game
-[18:01:44] [User Authenticator #2/INFO]: UUID of player slime73 is 40b5404a-1f76-44d2-a2f2-251171f48b4a
-[18:01:44] [Server thread/INFO]: slime73[/142.134.41.111:50778] logged in with entity id 471 at (-5929.464648795194, 94.76636799395752, -199.35424424323148)
-[18:01:44] [Server thread/INFO]: slime73 joined the game
-[18:45:55] [Server thread/INFO]: <lord0gnome> ok we stop here
-[18:45:59] [Server thread/INFO]: <lord0gnome> it is time apparently
-[18:46:02] [Server thread/INFO]: <slime73> you hung up when I answered
-[18:46:03] [Server thread/INFO]: <slime73> ok
-[18:46:03] [Server thread/INFO]: <lord0gnome> for next time this shall be
-[18:46:05] [Server thread/INFO]: <lord0gnome> no idnt
-[18:46:07] [Server thread/INFO]: <slime73> liar
-[18:46:07] [Server thread/INFO]: <lord0gnome> it din't wor
-[18:46:09] [Server thread/INFO]: <lord0gnome> k
-[18:46:15] [Server thread/INFO]: lord0gnome lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[18:46:15] [Server thread/INFO]: lord0gnome left the game
-[18:46:21] [Server thread/INFO]: slime73 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[18:46:21] [Server thread/INFO]: slime73 left the game
-[18:46:23] [Server thread/INFO]: Stopping the server
-[18:46:23] [Server thread/INFO]: Stopping server
-[18:46:23] [Server thread/INFO]: Saving players
-[18:46:23] [Server thread/INFO]: Saving worlds
-[18:46:23] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[18:46:23] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[18:46:23] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[18:46:23] [Server Shutdown Thread/INFO]: Stopping server
-[18:46:23] [Server Shutdown Thread/INFO]: Saving players
+[15:33:56] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[15:33:56] [Server thread/INFO]: Loading properties
+[15:33:56] [Server thread/INFO]: Default game type: SURVIVAL
+[15:33:56] [Server thread/INFO]: Generating keypair
+[15:33:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:33:56] [Server thread/INFO]: Using epoll channel type
+[15:33:56] [Server thread/INFO]: Preparing level "world"
+[15:33:56] [Server thread/INFO]: Preparing start region for level 0
+[15:33:57] [Server thread/INFO]: Preparing spawn area: 2%
+[15:33:58] [Server thread/INFO]: Preparing spawn area: 88%
+[15:33:58] [Server thread/INFO]: Done (2.334s)! For help, type "help" or "?"
+[15:34:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@1ce9118a[id=<null>,name=slime73,properties={},legacy=false] (/24.215.81.93:61577) lost connection: Disconnected
+[15:35:28] [User Authenticator #1/INFO]: UUID of player slime73 is 40b5404a-1f76-44d2-a2f2-251171f48b4a
+[15:35:28] [Server thread/INFO]: slime73[/24.215.81.93:61677] logged in with entity id 212 at (-6069.300000011921, 26.0, -177.1814830077555)
+[15:35:28] [Server thread/INFO]: slime73 joined the game
+[15:35:36] [User Authenticator #2/INFO]: UUID of player lord0gnome is 50b1244c-fe2e-4258-a473-810e2ef56e09
+[15:35:37] [Server thread/INFO]: lord0gnome[/78.193.234.231:53169] logged in with entity id 631 at (-6073.356400774188, 32.0, -216.30000001192093)
+[15:35:37] [Server thread/INFO]: lord0gnome joined the game
+[15:36:15] [User Authenticator #3/INFO]: UUID of player dixminous is c172bf41-f77c-4eb0-b1ec-bb67c93987d7
+[15:36:15] [Server thread/INFO]: dixminous[/78.193.234.231:50465] logged in with entity id 1087 at (-162.5, 78.0, 256.5)
+[15:36:15] [Server thread/INFO]: dixminous joined the game
+[15:38:21] [Server thread/INFO]: [lord0gnome: Teleported dixminous to lord0gnome]
+[15:42:12] [Server thread/INFO]: dixminous has just earned the achievement [Taking Inventory]
+[15:51:08] [Server thread/INFO]: [lord0gnome: Teleported dixminous to lord0gnome]
+[15:59:32] [Server thread/INFO]: dixminous has just earned the achievement [Getting Wood]
+[16:01:24] [Server thread/INFO]: dixminous has just earned the achievement [Benchmarking]
+[16:10:24] [Server thread/INFO]: dixminous has just earned the achievement [Time to Farm!]
+[16:14:33] [Server thread/INFO]: slime73 fell from a high place
+[16:17:50] [Server thread/INFO]: slime73 was slain by Zombie
+[16:18:59] [Server thread/INFO]: dixminous has just earned the achievement [Bake Bread]
+[16:38:15] [Server thread/INFO]: lord0gnome has just earned the achievement [Diamonds to you!]
+[17:09:47] [Server thread/WARN]: dixminous moved wrongly!
+[17:50:14] [Server thread/INFO]: lord0gnome has just earned the achievement [We Need to Go Deeper]
+[17:50:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3579ms behind, skipping 71 tick(s)
+[17:50:18] [Server thread/WARN]: lord0gnome moved too quickly! 5159.0,-2.0,234.4802842132034
+[17:50:25] [Server thread/WARN]: slime73 moved too quickly! 5159.0,-2.0,235.19999998807907
+[17:54:51] [Server thread/WARN]: lord0gnome moved too quickly! -5159.0,2.0,-234.95923178481394
+[18:08:08] [Server thread/WARN]: slime73 moved too quickly! 5159.0,-2.0,235.19999998807907
+[18:08:09] [Server thread/WARN]: dixminous moved too quickly! 5159.0,-2.0,235.19999998807907
+[18:08:09] [Server thread/WARN]: lord0gnome moved too quickly! 5159.0,-2.0,235.19999998807907
+[18:37:00] [Server thread/WARN]: slime73 moved too quickly! -5159.474231629869,2.0,-234.83893846564885
+[18:37:04] [Server thread/WARN]: lord0gnome moved too quickly! -5159.518466782774,2.0,-234.74377697469262
+[18:40:49] [Server thread/INFO]: slime73 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:40:49] [Server thread/INFO]: slime73 left the game
+[18:41:33] [Server thread/INFO]: lord0gnome lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:41:33] [Server thread/INFO]: lord0gnome left the game
+[18:53:00] [Server thread/INFO]: dixminous lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:53:00] [Server thread/INFO]: dixminous left the game
+[19:19:22] [Server thread/INFO]: Stopping the server
+[19:19:22] [Server thread/INFO]: Stopping server
+[19:19:22] [Server thread/INFO]: Saving players
+[19:19:22] [Server thread/INFO]: Saving worlds
+[19:19:22] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[19:19:22] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[19:19:22] [Server thread/INFO]: Saving chunks for level 'world'/The End
