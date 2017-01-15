@@ -1,112 +1,163 @@
-[13:27:59] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[13:27:59] [Server thread/INFO]: Loading properties
-[13:27:59] [Server thread/INFO]: Default game type: SURVIVAL
-[13:27:59] [Server thread/INFO]: Generating keypair
-[13:27:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:27:59] [Server thread/INFO]: Using epoll channel type
-[13:27:59] [Server thread/INFO]: Preparing level "world"
-[13:27:59] [Server thread/INFO]: Preparing start region for level 0
-[13:28:00] [Server thread/INFO]: Preparing spawn area: 1%
-[13:28:01] [Server thread/INFO]: Preparing spawn area: 73%
-[13:28:01] [Server thread/INFO]: Done (2.475s)! For help, type "help" or "?"
-[13:31:19] [User Authenticator #1/INFO]: UUID of player lord0gnome is 50b1244c-fe2e-4258-a473-810e2ef56e09
-[13:31:19] [Server thread/INFO]: lord0gnome[/78.193.234.231:52765] logged in with entity id 221 at (-5923.4790320505845, 96.0, -209.2108229597258)
-[13:31:19] [Server thread/INFO]: lord0gnome joined the game
-[13:31:58] [Server thread/INFO]: lord0gnome has just earned the achievement [Enchanter]
-[13:37:22] [User Authenticator #2/INFO]: UUID of player dixminous is c172bf41-f77c-4eb0-b1ec-bb67c93987d7
-[13:37:22] [Server thread/INFO]: dixminous[/78.193.234.231:58820] logged in with entity id 8591 at (-5921.616425861768, 96.0, -207.97286233323666)
-[13:37:22] [Server thread/INFO]: dixminous joined the game
-[13:51:34] [Server thread/WARN]: lord0gnome was kicked for floating too long!
-[13:51:34] [Server thread/INFO]: lord0gnome lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[13:51:34] [Server thread/INFO]: lord0gnome left the game
-[13:51:34] [Server thread/WARN]: handleDisconnection() called twice
-[13:51:38] [User Authenticator #3/INFO]: UUID of player lord0gnome is 50b1244c-fe2e-4258-a473-810e2ef56e09
-[13:51:38] [Server thread/INFO]: lord0gnome[/78.193.234.231:52898] logged in with entity id 38159 at (-6494.875392947031, 75.8500000178814, -241.6982421875)
-[13:51:38] [Server thread/INFO]: lord0gnome joined the game
-[13:53:22] [Server thread/WARN]: Horse moved wrongly!
-[13:55:25] [Server thread/WARN]: lord0gnome moved wrongly!
-[13:59:15] [Server thread/INFO]: <lord0gnome> emo
-[13:59:23] [Server thread/INFO]: <dixminous> eeeeee;u
-[14:03:35] [Server thread/WARN]: lord0gnome moved wrongly!
-[14:04:25] [Server thread/WARN]: Horse moved wrongly!
-[14:04:25] [Server thread/WARN]: Horse moved wrongly!
-[14:04:25] [Server thread/WARN]: Horse moved wrongly!
-[14:04:25] [Server thread/WARN]: Horse moved wrongly!
-[14:04:25] [Server thread/WARN]: Horse moved wrongly!
-[14:04:25] [Server thread/WARN]: Horse moved wrongly!
-[14:04:25] [Server thread/WARN]: Horse moved wrongly!
-[14:04:25] [Server thread/WARN]: Horse moved wrongly!
-[14:04:25] [Server thread/WARN]: Horse moved wrongly!
-[14:04:25] [Server thread/WARN]: Horse moved wrongly!
-[14:04:25] [Server thread/WARN]: Horse moved wrongly!
-[14:04:25] [Server thread/WARN]: Horse moved wrongly!
-[14:04:25] [Server thread/WARN]: Horse moved wrongly!
-[14:04:25] [Server thread/WARN]: Horse moved wrongly!
-[14:04:25] [Server thread/WARN]: Horse moved wrongly!
-[14:04:25] [Server thread/WARN]: Horse moved wrongly!
-[14:04:26] [Server thread/WARN]: Horse moved wrongly!
-[14:04:26] [Server thread/WARN]: Horse moved wrongly!
-[14:04:26] [Server thread/WARN]: Horse moved wrongly!
-[14:04:26] [Server thread/WARN]: Horse moved wrongly!
-[14:04:26] [Server thread/WARN]: Horse moved wrongly!
-[14:04:26] [Server thread/WARN]: Horse moved wrongly!
-[14:04:26] [Server thread/WARN]: Horse moved wrongly!
-[14:04:26] [Server thread/WARN]: Horse moved wrongly!
-[14:04:26] [Server thread/WARN]: Horse moved wrongly!
-[14:04:26] [Server thread/WARN]: Horse moved wrongly!
-[14:04:26] [Server thread/WARN]: Horse moved wrongly!
-[14:04:32] [Server thread/WARN]: Horse moved wrongly!
-[14:04:33] [Server thread/WARN]: Horse moved wrongly!
-[14:05:55] [Server thread/WARN]: Horse moved wrongly!
-[14:10:41] [Server thread/WARN]: lord0gnome moved wrongly!
-[14:13:01] [Server thread/WARN]: lord0gnome moved wrongly!
-[14:15:29] [Server thread/WARN]: Boat moved wrongly!
-[14:18:36] [Server thread/WARN]: Horse moved wrongly!
-[14:18:36] [Server thread/WARN]: Horse moved wrongly!
-[14:29:38] [Server thread/WARN]: Horse moved wrongly!
-[14:29:40] [Server thread/WARN]: Horse moved wrongly!
-[14:31:46] [Server thread/INFO]: <lord0gnome> emu's
-[14:31:48] [Server thread/INFO]: <lord0gnome> are cake
-[15:17:51] [Server thread/WARN]: Horse moved wrongly!
-[15:19:14] [Server thread/WARN]: Horse moved wrongly!
-[15:19:14] [Server thread/WARN]: Horse moved wrongly!
-[15:19:45] [Server thread/WARN]: Horse moved wrongly!
-[15:19:45] [Server thread/WARN]: Horse moved wrongly!
-[15:19:59] [Server thread/WARN]: Horse moved wrongly!
-[15:21:19] [Server thread/WARN]: Horse moved wrongly!
-[15:21:19] [Server thread/WARN]: Horse moved wrongly!
-[15:21:20] [Server thread/WARN]: Horse moved wrongly!
-[15:21:20] [Server thread/WARN]: Horse moved wrongly!
-[15:22:16] [Server thread/WARN]: lord0gnome moved wrongly!
-[15:22:42] [Server thread/WARN]: Horse moved wrongly!
-[15:22:42] [Server thread/WARN]: Horse moved wrongly!
-[15:23:03] [Server thread/WARN]: Horse moved wrongly!
-[15:23:03] [Server thread/WARN]: Horse moved wrongly!
-[15:23:15] [Server thread/WARN]: Horse moved wrongly!
-[15:23:15] [Server thread/WARN]: Horse moved wrongly!
-[15:24:17] [Server thread/WARN]: Horse moved wrongly!
-[15:25:20] [Server thread/WARN]: lord0gnome was kicked for floating too long!
-[15:25:20] [Server thread/INFO]: lord0gnome lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[15:25:20] [Server thread/INFO]: lord0gnome left the game
-[15:25:23] [User Authenticator #4/INFO]: UUID of player lord0gnome is 50b1244c-fe2e-4258-a473-810e2ef56e09
-[15:25:23] [Server thread/INFO]: lord0gnome[/78.193.234.231:53324] logged in with entity id 218558 at (-5775.670397683123, 79.62254655921839, 121.2875142132851)
-[15:25:23] [Server thread/INFO]: lord0gnome joined the game
-[15:26:13] [Server thread/WARN]: Horse moved wrongly!
-[15:26:22] [Server thread/WARN]: Horse moved wrongly!
-[15:26:28] [Server thread/WARN]: Horse moved wrongly!
-[16:23:52] [Server thread/INFO]: <dixminous> www
-[16:23:53] [Server thread/INFO]: <lord0gnome> aa
-[16:38:06] [Server thread/INFO]: dixminous lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[16:38:06] [Server thread/INFO]: dixminous left the game
-[16:38:06] [Server thread/INFO]: lord0gnome lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[16:38:06] [Server thread/INFO]: lord0gnome left the game
-[16:38:14] [Server thread/INFO]: Stopping the server
-[16:38:14] [Server thread/INFO]: Stopping server
-[16:38:14] [Server thread/INFO]: Saving players
-[16:38:14] [Server thread/INFO]: Saving worlds
-[16:38:14] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[16:38:14] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[16:38:14] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[16:38:14] [Server Shutdown Thread/INFO]: Stopping server
-[16:38:14] [Server Shutdown Thread/INFO]: Saving players
-[16:38:14] [Server Shutdown Thread/INFO]: Saving worlds
+[17:17:34] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[17:17:34] [Server thread/INFO]: Loading properties
+[17:17:34] [Server thread/INFO]: Default game type: SURVIVAL
+[17:17:34] [Server thread/INFO]: Generating keypair
+[17:17:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:17:34] [Server thread/INFO]: Using epoll channel type
+[17:17:34] [Server thread/INFO]: Preparing level "world"
+[17:17:35] [Server thread/INFO]: Preparing start region for level 0
+[17:17:36] [Server thread/INFO]: Preparing spawn area: 1%
+[17:17:37] [Server thread/INFO]: Preparing spawn area: 75%
+[17:17:37] [Server thread/INFO]: Done (2.465s)! For help, type "help" or "?"
+[17:19:34] [User Authenticator #1/INFO]: UUID of player lord0gnome is 50b1244c-fe2e-4258-a473-810e2ef56e09
+[17:19:34] [Server thread/INFO]: lord0gnome[/78.193.234.231:57934] logged in with entity id 219 at (-5922.897179670427, 96.875, -207.89224359182762)
+[17:19:34] [Server thread/INFO]: lord0gnome joined the game
+[17:20:00] [User Authenticator #2/INFO]: UUID of player dixminous is c172bf41-f77c-4eb0-b1ec-bb67c93987d7
+[17:20:00] [Server thread/INFO]: dixminous[/156.57.35.174:54863] logged in with entity id 620 at (-5923.7635053187205, 96.0, -209.55685586791662)
+[17:20:00] [Server thread/INFO]: dixminous joined the game
+[17:21:05] [Server thread/WARN]: lord0gnome was kicked for floating too long!
+[17:21:05] [Server thread/INFO]: lord0gnome lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[17:21:05] [Server thread/INFO]: lord0gnome left the game
+[17:21:08] [User Authenticator #3/INFO]: UUID of player lord0gnome is 50b1244c-fe2e-4258-a473-810e2ef56e09
+[17:21:08] [Server thread/INFO]: lord0gnome[/78.193.234.231:57949] logged in with entity id 1531 at (-5922.5, 96.0999984741211, -211.5)
+[17:21:08] [Server thread/INFO]: lord0gnome joined the game
+[17:31:06] [Server thread/INFO]: [lord0gnome: Teleported lord0gnome to dixminous]
+[17:36:25] [Server thread/WARN]: Horse moved wrongly!
+[17:36:33] [Server thread/WARN]: Horse moved wrongly!
+[17:36:34] [Server thread/WARN]: Horse moved wrongly!
+[17:36:57] [Server thread/WARN]: Boat moved wrongly!
+[17:36:57] [Server thread/WARN]: Boat moved wrongly!
+[17:37:19] [Server thread/WARN]: Horse moved wrongly!
+[17:39:08] [Server thread/WARN]: Horse moved wrongly!
+[17:39:41] [Server thread/WARN]: Horse moved wrongly!
+[17:42:15] [Server thread/WARN]: Horse moved wrongly!
+[17:42:15] [Server thread/WARN]: Horse moved wrongly!
+[17:42:15] [Server thread/WARN]: Horse moved wrongly!
+[17:42:15] [Server thread/WARN]: Horse moved wrongly!
+[17:43:19] [Server thread/WARN]: Horse moved wrongly!
+[17:44:58] [Server thread/WARN]: lord0gnome moved wrongly!
+[17:46:58] [Server thread/WARN]: Horse moved wrongly!
+[17:46:58] [Server thread/WARN]: Horse moved wrongly!
+[17:46:58] [Server thread/WARN]: Horse moved wrongly!
+[17:46:58] [Server thread/WARN]: Horse moved wrongly!
+[17:46:58] [Server thread/WARN]: Horse moved wrongly!
+[17:46:58] [Server thread/WARN]: Horse moved wrongly!
+[17:46:58] [Server thread/WARN]: Horse moved wrongly!
+[17:46:58] [Server thread/WARN]: Horse moved wrongly!
+[17:46:59] [Server thread/WARN]: Horse moved wrongly!
+[17:46:59] [Server thread/WARN]: Horse moved wrongly!
+[17:46:59] [Server thread/WARN]: Horse moved wrongly!
+[17:46:59] [Server thread/WARN]: Horse moved wrongly!
+[17:46:59] [Server thread/WARN]: Horse moved wrongly!
+[17:46:59] [Server thread/WARN]: Horse moved wrongly!
+[17:46:59] [Server thread/WARN]: Horse moved wrongly!
+[17:46:59] [Server thread/WARN]: Horse moved wrongly!
+[17:46:59] [Server thread/WARN]: Horse moved wrongly!
+[17:46:59] [Server thread/WARN]: Horse moved wrongly!
+[17:48:40] [Server thread/WARN]: Horse moved wrongly!
+[17:48:40] [Server thread/WARN]: Horse moved wrongly!
+[17:48:40] [Server thread/WARN]: Horse moved wrongly!
+[17:48:40] [Server thread/WARN]: Horse moved wrongly!
+[17:48:40] [Server thread/WARN]: Horse moved wrongly!
+[17:48:40] [Server thread/WARN]: Horse moved wrongly!
+[17:48:40] [Server thread/WARN]: Horse moved wrongly!
+[17:48:40] [Server thread/WARN]: Horse moved wrongly!
+[17:48:40] [Server thread/WARN]: Horse moved wrongly!
+[17:48:40] [Server thread/WARN]: Horse moved wrongly!
+[17:48:40] [Server thread/WARN]: Horse moved wrongly!
+[17:48:40] [Server thread/WARN]: Horse moved wrongly!
+[17:48:40] [Server thread/WARN]: Horse moved wrongly!
+[17:48:41] [Server thread/WARN]: Horse moved wrongly!
+[17:48:41] [Server thread/WARN]: Horse moved wrongly!
+[17:48:41] [Server thread/WARN]: Horse moved wrongly!
+[17:48:41] [Server thread/WARN]: Horse moved wrongly!
+[17:48:41] [Server thread/WARN]: Horse moved wrongly!
+[17:48:41] [Server thread/WARN]: Horse moved wrongly!
+[17:48:41] [Server thread/WARN]: Horse moved wrongly!
+[17:48:53] [Server thread/WARN]: Horse moved wrongly!
+[17:53:16] [Server thread/WARN]: lord0gnome moved wrongly!
+[17:53:59] [Server thread/INFO]: dixminous was killed by Witch using magic
+[17:55:04] [Server thread/WARN]: Horse moved wrongly!
+[17:55:46] [Server thread/INFO]: [lord0gnome: Teleported dixminous to lord0gnome]
+[17:57:08] [Server thread/WARN]: dixminous moved wrongly!
+[17:59:36] [Server thread/WARN]: Horse moved wrongly!
+[18:01:11] [Server thread/WARN]: Horse moved wrongly!
+[18:01:13] [Server thread/WARN]: Horse moved wrongly!
+[18:01:13] [Server thread/WARN]: Horse moved wrongly!
+[18:01:13] [Server thread/WARN]: Horse moved wrongly!
+[18:01:44] [User Authenticator #4/INFO]: UUID of player slime73 is 40b5404a-1f76-44d2-a2f2-251171f48b4a
+[18:01:44] [Server thread/INFO]: slime73[/24.215.81.93:61351] logged in with entity id 118663 at (-5923.199641029506, 96.0, -209.62074200324975)
+[18:01:44] [Server thread/INFO]: slime73 joined the game
+[18:01:48] [Server thread/INFO]: <lord0gnome> yeehaw
+[18:01:53] [Server thread/INFO]: <lord0gnome> justeunmot.com
+[18:01:56] [Server thread/INFO]: <lord0gnome> is the teamspeak
+[18:02:36] [Server thread/WARN]: Horse moved wrongly!
+[18:02:58] [Server thread/WARN]: Horse moved wrongly!
+[18:03:03] [Server thread/WARN]: Horse moved wrongly!
+[18:05:55] [Server thread/WARN]: Horse moved wrongly!
+[18:09:18] [Server thread/INFO]: dixminous lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:09:18] [Server thread/INFO]: dixminous left the game
+[18:10:11] [User Authenticator #5/INFO]: UUID of player dixminous is c172bf41-f77c-4eb0-b1ec-bb67c93987d7
+[18:10:11] [Server thread/INFO]: dixminous[/156.57.35.174:54974] logged in with entity id 151938 at (-6617.739680593796, 64.0, -1554.6365094328273)
+[18:10:11] [Server thread/INFO]: dixminous joined the game
+[18:10:26] [Server thread/INFO]: dixminous lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:10:26] [Server thread/INFO]: dixminous left the game
+[18:12:10] [User Authenticator #6/INFO]: UUID of player dixminous is c172bf41-f77c-4eb0-b1ec-bb67c93987d7
+[18:12:10] [Server thread/INFO]: dixminous[/156.57.35.174:54980] logged in with entity id 156023 at (-6617.739680593796, 64.0, -1554.6365094328273)
+[18:12:10] [Server thread/INFO]: dixminous joined the game
+[18:20:43] [Server thread/WARN]: dixminous moved wrongly!
+[18:20:46] [Server thread/WARN]: dixminous moved wrongly!
+[18:20:49] [Server thread/WARN]: dixminous moved wrongly!
+[18:21:20] [Server thread/WARN]: dixminous moved wrongly!
+[18:22:08] [Server thread/WARN]: dixminous moved wrongly!
+[18:26:12] [Server thread/INFO]: <slime73> smoke wheat every day 420
+[18:30:41] [Server thread/INFO]: [lord0gnome: Teleported dixminous to lord0gnome]
+[18:35:41] [Server thread/WARN]: slime73 moved too quickly! 5159.564894933457,-2.0,234.88585322513097
+[18:35:54] [Server thread/WARN]: slime73 moved too quickly! -5158.988862917711,2.0,-235.4295732347474
+[18:39:17] [Server thread/INFO]: dixminous lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:39:17] [Server thread/INFO]: dixminous left the game
+[18:42:58] [User Authenticator #7/INFO]: UUID of player dixminous is c172bf41-f77c-4eb0-b1ec-bb67c93987d7
+[18:42:58] [Server thread/INFO]: dixminous[/156.57.35.174:55043] logged in with entity id 218301 at (-5922.632484086575, 96.0, -211.58760723834448)
+[18:42:58] [Server thread/INFO]: dixminous joined the game
+[18:46:01] [Server thread/INFO]: [lord0gnome: Kicked dixminous from the game]
+[18:46:01] [Server thread/INFO]: dixminous lost connection: TextComponent{text='Kicked by an operator.', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:46:01] [Server thread/INFO]: dixminous left the game
+[18:46:14] [User Authenticator #8/INFO]: UUID of player dixminous is c172bf41-f77c-4eb0-b1ec-bb67c93987d7
+[18:46:14] [Server thread/INFO]: dixminous[/156.57.35.174:55053] logged in with entity id 224096 at (-5922.49914258356, 96.0, -211.5600001937466)
+[18:46:14] [Server thread/INFO]: dixminous joined the game
+[18:47:01] [Server thread/WARN]: lord0gnome moved too quickly! 5160.198981213527,-2.0,235.19843152693522
+[18:47:04] [Server thread/WARN]: slime73 moved too quickly! 5158.717882967552,-2.0,234.5731264564074
+[18:50:32] [Server thread/WARN]: lord0gnome moved too quickly! -5159.108979220249,2.0,-234.93295362267736
+[18:51:23] [Server thread/WARN]: lord0gnome moved too quickly! 5159.192361054727,-2.0,234.74215746058667
+[19:01:15] [Server thread/INFO]: lord0gnome fell from a high place
+[19:04:11] [Server thread/WARN]: lord0gnome moved too quickly! 5158.615181752013,-2.0,234.66220935434615
+[19:13:28] [Server thread/INFO]: lord0gnome has just earned the achievement [Into Fire]
+[19:20:08] [Server thread/INFO]: lord0gnome has just earned the achievement [Return to Sender]
+[19:22:40] [Server thread/WARN]: slime73 moved too quickly! -5159.47153609317,2.0,-235.07663657167146
+[19:23:32] [Server thread/WARN]: slime73 moved too quickly! 5159.223539499912,-2.0,235.19999998807907
+[19:23:40] [Server thread/INFO]: [lord0gnome: Teleported lord0gnome to slime73]
+[19:23:45] [Server thread/INFO]: [lord0gnome: Teleported dixminous to lord0gnome]
+[19:23:54] [Server thread/WARN]: lord0gnome moved too quickly! -5158.104076162121,2.0,-234.3903670942869
+[19:24:32] [Server thread/INFO]: lord0gnome lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:24:32] [Server thread/INFO]: lord0gnome left the game
+[19:24:34] [Server thread/INFO]: slime73 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:24:34] [Server thread/INFO]: slime73 left the game
+[19:24:41] [User Authenticator #9/INFO]: UUID of player lord0gnome is 50b1244c-fe2e-4258-a473-810e2ef56e09
+[19:24:41] [Server thread/INFO]: lord0gnome[/78.193.234.231:58439] logged in with entity id 252679 at (-5921.973128314891, 96.0, -215.4043582836064)
+[19:24:41] [Server thread/INFO]: lord0gnome joined the game
+[19:25:01] [Server thread/INFO]: lord0gnome lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:25:01] [Server thread/INFO]: lord0gnome left the game
+[19:25:22] [Server thread/INFO]: dixminous lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:25:22] [Server thread/INFO]: dixminous left the game
+[19:26:30] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:26:34] [Server thread/INFO]: Stopping the server
+[19:26:34] [Server thread/INFO]: Stopping server
+[19:26:34] [Server thread/INFO]: Saving players
+[19:26:34] [Server thread/INFO]: Saving worlds
+[19:26:34] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[19:26:34] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[19:26:34] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[19:26:34] [Server Shutdown Thread/INFO]: Stopping server
+[19:26:34] [Server Shutdown Thread/INFO]: Saving players
+[19:26:34] [Server Shutdown Thread/INFO]: Saving worlds
+[19:26:34] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
